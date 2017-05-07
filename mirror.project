@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="" orderDate="" productFilter="false">
+  <viyar version="12">
+    <user name="alexandr" phone="" email="alexandr05@list.ru" uuid=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="steklo" site="viyar.ua"/>
+    <materials>
+      <material id="1" type="sheet" article="94584" guid="" oldGuid="" uuid="19404cf2-4012-11e1-8857-984be164e40b" name="Зеркало Серебро 4мм БЦ (с защитной пленкой)" width="2750" height="1605" thickness="4"/>
+    </materials>
+    <details>
+      <detail id="1" material="1" barcode="" amount="1" width="1744.0" height="850.0" description="Mirror" marker="0">
+        <edges>
+          <left type="" param="0"/>
+          <top type="" param="0"/>
+          <right type="" param="0"/>
+          <bottom type="" param="0"/>
+        </edges>
+      </detail>
+    </details>
+  </viyar>
+</project>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="" orderDate="" productFilter="false">
+  <viyar version="12">
+    <user name="alexandr" phone="" email="alexandr05@list.ru" uuid=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="dsp" site="viyar.ua"/>
+    <materials>
+      <material id="1" type="sheet" article="85095" guid="40472" oldGuid="40472" uuid="f904d216-1f58-11e1-9917-1cc1dee862d0" name="Egger H3304 ST9 Дуб Шато серый перламутровый 10мм" width="2800" height="2070" thickness="10"/>
+    </materials>
+    <details>
+      <detail id="1" material="1" barcode="" amount="4" width="350.0" height="850.0" description="Fasad_350x850" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="2" material="1" barcode="" amount="1" width="1744.0" height="850.0" description="Fasad_1744x850" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="3" material="1" barcode="" amount="4" width="350.0" height="620.0" description="Fasad_350x620" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="4" material="1" barcode="" amount="2" width="1744.0" height="620.0" description="Fasad_1744x620" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="5" material="1" barcode="" amount="4" width="830.0" height="140.0" description="BoxBack" multiplicity="1" grain="0" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="6" material="1" barcode="" amount="4" width="830.0" height="495.0" description="BoxBottom" multiplicity="1" grain="0" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+    </details>
+  </viyar>
+  <good id="1" name="Egger H3304 ST9 Дуб Шато серый перламутровый 10мм" typeId="sheet" unit="м2" w="2070" l="2800" t="10">
+    <part id="1001" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="2" name="Egger H3304 ST9 Дуб Шато серый перламутровый 10мм" typeId="sheet" unit="м2" w="2070" l="2800" t="20">
+    <part id="1002" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="3" name="Egger H3304 ST9 Дуб Шато серый перламутровый 10мм" typeId="sheet" unit="м2" w="2070" l="2800" t="30">
+    <part id="1003" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="4" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <good id="5" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <good id="6" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <operation id="1" typeId="CS" tool1="4" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="1"/>
+    <part id="1001"/>
+    <part id="1"/>
+    <part id="2"/>
+    <part id="3"/>
+    <part id="4"/>
+    <part id="5"/>
+    <part id="6"/>
+  </operation>
+  <operation id="2" typeId="CS" tool1="5" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="2"/>
+    <part id="1002"/>
+  </operation>
+  <operation id="3" typeId="CS" tool1="6" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="3"/>
+    <part id="1003"/>
+  </operation>
+  <good id="7" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0">
+    <part id="1" usedCount="0" dl="850" dw="350" count="4" name="Fasad_350x850" txt="true"/>
+    <part id="2" usedCount="0" dl="1744" dw="850" count="1" name="Fasad_1744x850" txt="true"/>
+    <part id="3" usedCount="0" dl="620" dw="350" count="4" name="Fasad_350x620" txt="true"/>
+    <part id="4" usedCount="0" dl="1744" dw="620" count="2" name="Fasad_1744x620" txt="true"/>
+    <part id="5" usedCount="0" dl="830" dw="140" count="4" name="BoxBack" txt="false"/>
+    <part id="6" usedCount="0" dl="830" dw="495" count="4" name="BoxBottom" txt="false"/>
+  </good>
+  <good id="8" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0"/>
+  <good id="9" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0"/>
+</project>
