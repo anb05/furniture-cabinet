@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="" orderDate="" productFilter="false">
+  <viyar version="12">
+    <user name="alexandr" phone="" email="alexandr05@list.ru" uuid=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="dsp" site="viyar.ua"/>
+    <materials>
+      <material id="1" type="sheet" article="56946" guid="36010" oldGuid="36010" uuid="af90c03e-1f58-11e1-9917-1cc1dee862d0" name="Kronospan 0101 Белый 3мм" width="2800" height="2070" thickness="3"/>
+    </materials>
+    <details>
+      <detail id="1" material="1" barcode="" amount="1" width="2646.0" height="1396.0" description="BackSmall" multiplicity="1" grain="0" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="2" material="1" barcode="" amount="1" width="2646.0" height="1856.0" description="BackBig" multiplicity="1" grain="0" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+    </details>
+  </viyar>
+  <good id="1" name="Kronospan 0101 Белый 3мм" typeId="sheet" unit="м2" w="2070" l="2800" t="3">
+    <part id="1001" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="2" name="Kronospan 0101 Белый 3мм" typeId="sheet" unit="м2" w="2070" l="2800" t="6">
+    <part id="1002" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="3" name="Kronospan 0101 Белый 3мм" typeId="sheet" unit="м2" w="2070" l="2800" t="9">
+    <part id="1003" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="4" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <good id="5" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <good id="6" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <operation id="1" typeId="CS" tool1="4" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="1"/>
+    <part id="1001"/>
+    <part id="1"/>
+    <part id="2"/>
+  </operation>
+  <operation id="2" typeId="CS" tool1="5" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="2"/>
+    <part id="1002"/>
+  </operation>
+  <operation id="3" typeId="CS" tool1="6" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="3"/>
+    <part id="1003"/>
+  </operation>
+  <good id="7" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0">
+    <part id="1" usedCount="0" dl="2646" dw="1396" count="1" name="BackSmall" txt="false"/>
+    <part id="2" usedCount="0" dl="2646" dw="1856" count="1" name="BackBig" txt="false"/>
+  </good>
+  <good id="8" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0"/>
+  <good id="9" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0"/>
+</project>
