@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project>
+  <constructor id="sliding-systems" country="ua" city="kiev"/>
+  <viyar>
+    <slidingSystem width="1364" height="2544" profileUuid="50d4d5cb-3774-11e1-b72d-984be164e40b" profileTextureUuid="50d4d5d4-3774-11e1-b72d-984be164e40b" site="viyar.ua" kontragentUUID="" brushUuid="9ccb80a2-2aca-11e5-a3e5-0025909a7a20" isBrushConsider="1" connectorType="P" detent="1" rollers="premium" erection="1">
+      <doors doorsCount="2" overlap="1" doorWidth="704" doorHeight="2504">
+        <door id="0" width="704" height="2504" dovodLeft="1" dovodRight="">
+          <section id="0" height="350" fillerCode="85095" fillerUUID="f904d216-1f58-11e1-9917-1cc1dee862d0" rotate="" photoPrint=""/>
+          <section id="1" height="1744" fillerCode="85095" fillerUUID="f904d216-1f58-11e1-9917-1cc1dee862d0" rotate="" photoPrint=""/>
+          <section id="2" height="350" fillerCode="85095" fillerUUID="f904d216-1f58-11e1-9917-1cc1dee862d0" rotate="" photoPrint=""/>
+        </door>
+        <door id="1" width="704" height="2504" dovodLeft="" dovodRight="">
+          <section id="0" height="350" fillerCode="85095" fillerUUID="f904d216-1f58-11e1-9917-1cc1dee862d0" rotate="" photoPrint=""/>
+          <section id="1" height="1744" fillerCode="85095" fillerUUID="f904d216-1f58-11e1-9917-1cc1dee862d0" rotate="" photoPrint=""/>
+          <section id="2" height="350" fillerCode="85095" fillerUUID="f904d216-1f58-11e1-9917-1cc1dee862d0" rotate="" photoPrint=""/>
+        </door>
+      </doors>
+    </slidingSystem>
+  </viyar>
+</project>

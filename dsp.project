@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="" orderDate="" productFilter="false">
+  <viyar version="12">
+    <user name="alexandr" phone="" email="alexandr05@list.ru" uuid=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="dsp" site="viyar.ua"/>
+    <materials>
+      <material id="1" type="sheet" article="77790" guid="40473" oldGuid="40473" uuid="f904d218-1f58-11e1-9917-1cc1dee862d0" name="Egger H3304 ST9 Дуб Шато серый перламутровый 18мм" width="2800" height="2070" thickness="18"/>
+      <material id="2" type="band" article="21272" guid="38384" oldGuid="38384" uuid="218a1cd8-fa2f-11e4-9dd6-000c29430d31" name="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" height="28" thickness="2" markingColor="rgb(0,0,255)"/>
+    </materials>
+    <details>
+      <detail id="1" material="1" barcode="" amount="1" width="2650" height="700" description="LeftSide" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="1" x="20" y="9" xo="20" yo="9" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="2" type="drilling" side="1" x="50" y="9" xo="50" yo="9" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="3" type="drilling" side="1" x="20" y="691" xo="20" yo="691" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="4" type="drilling" side="1" x="50" y="691" xo="50" yo="691" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="5" type="drilling" side="1" x="79" y="100" xo="79" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="6" type="drilling" side="1" x="79" y="300" xo="79" yo="300" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="7" type="drilling" side="1" x="79" y="400" xo="79" yo="400" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="8" type="drilling" side="1" x="79" y="600" xo="79" yo="600" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="9" type="drilling" side="1" x="79" y="50" xo="79" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="10" type="drilling" side="1" x="79" y="350" xo="79" yo="350" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="11" type="drilling" side="1" x="79" y="650" xo="79" yo="650" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="12" type="drilling" side="1" x="1747" y="50" xo="1747" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="13" type="drilling" side="1" x="1747" y="300" xo="1747" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="14" type="drilling" side="1" x="1747" y="550" xo="1747" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="15" type="drilling" side="1" x="1747" y="100" xo="1747" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="16" type="drilling" side="1" x="1747" y="250" xo="1747" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="17" type="drilling" side="1" x="1747" y="350" xo="1747" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="18" type="drilling" side="1" x="1747" y="500" xo="1747" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="19" type="drilling" side="1" x="2641" y="100" xo="2641" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="20" type="drilling" side="1" x="2641" y="300" xo="2641" yo="300" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="21" type="drilling" side="1" x="2641" y="400" xo="2641" yo="400" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="22" type="drilling" side="1" x="2641" y="600" xo="2641" yo="600" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="23" type="drilling" side="1" x="2641" y="50" xo="2641" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="24" type="drilling" side="1" x="2641" y="350" xo="2641" yo="350" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="25" type="drilling" side="1" x="2641" y="650" xo="2641" yo="650" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="26" type="drilling" side="1" x="2185" y="100" xo="2185" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="27" type="drilling" side="1" x="2185" y="500" xo="2185" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+        </operations>
+      </detail>
+      <detail id="2" material="1" barcode="" amount="1" width="2650" height="700" description="RightSide" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="1" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="2" type="drilling" side="1" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="3" type="drilling" side="1" x="9" y="650" xo="9" yo="650" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="4" type="drilling" side="1" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="5" type="drilling" side="1" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="6" type="drilling" side="1" x="9" y="400" xo="9" yo="400" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="7" type="drilling" side="1" x="9" y="600" xo="9" yo="600" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="8" type="drilling" side="1" x="903" y="100" xo="903" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="9" type="drilling" side="1" x="903" y="250" xo="903" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="10" type="drilling" side="1" x="903" y="350" xo="903" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="11" type="drilling" side="1" x="903" y="500" xo="903" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="12" type="drilling" side="1" x="903" y="50" xo="903" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="13" type="drilling" side="1" x="903" y="300" xo="903" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="14" type="drilling" side="1" x="903" y="550" xo="903" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="15" type="drilling" side="1" x="2571" y="50" xo="2571" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="16" type="drilling" side="1" x="2571" y="350" xo="2571" yo="350" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="17" type="drilling" side="1" x="2571" y="650" xo="2571" yo="650" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="18" type="drilling" side="1" x="2571" y="100" xo="2571" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="19" type="drilling" side="1" x="2571" y="300" xo="2571" yo="300" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="20" type="drilling" side="1" x="2571" y="400" xo="2571" yo="400" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="21" type="drilling" side="1" x="2571" y="600" xo="2571" yo="600" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="22" type="drilling" side="1" x="2630" y="9" xo="2630" yo="9" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="23" type="drilling" side="1" x="2630" y="691" xo="2630" yo="691" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="24" type="drilling" side="1" x="2600" y="9" xo="2600" yo="9" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="25" type="drilling" side="1" x="2600" y="691" xo="2600" yo="691" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="26" type="drilling" side="1" x="465" y="100" xo="465" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="27" type="drilling" side="1" x="465" y="500" xo="465" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+        </operations>
+      </detail>
+      <detail id="3" material="1" barcode="" amount="2" width="1364" height="700" description="TopSide" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="2" type="drilling" side="2" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="3" type="drilling" side="2" x="9" y="650" xo="9" yo="650" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="4" type="drilling" side="2" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="2" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="6" type="drilling" side="2" x="9" y="400" xo="9" yo="400" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="7" type="drilling" side="2" x="9" y="600" xo="9" yo="600" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="8" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="9" type="drilling" side="4" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="10" type="drilling" side="4" x="9" y="650" xo="9" yo="650" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="11" type="drilling" side="4" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="12" type="drilling" side="4" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="13" type="drilling" side="4" x="9" y="400" xo="9" yo="400" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="14" type="drilling" side="4" x="9" y="600" xo="9" yo="600" xl="0" yl="0" d="8" depth="25"/>
+        </operations>
+      </detail>
+      <detail id="4" material="1" barcode="" amount="2" width="1364" height="70" description="FromtPanel" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="20" xo="9" yo="20" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="2" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="3" type="drilling" side="4" x="9" y="20" xo="9" yo="20" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="4" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="1" x="682" y="20" xo="682" yo="20" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="6" type="drilling" side="1" x="682" y="50" xo="682" yo="20" xl="0" yl="h" d="8" depth="12"/>
+          <operation id="7" type="drilling" side="1" x="341" y="20" xo="341" yo="20" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="8" type="drilling" side="1" x="341" y="50" xo="341" yo="50" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="9" type="drilling" side="1" x="1023" y="20" xo="341" yo="20" xl="w" yl="0" d="8" depth="12"/>
+          <operation id="10" type="drilling" side="1" x="1023" y="50" xo="341" yo="50" xl="w" yl="0" d="8" depth="12"/>
+        </operations>
+      </detail>
+      <detail id="5" material="1" barcode="" amount="1" width="1362" height="598" description="Shelf" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="6" material="1" barcode="" amount="1" width="1364" height="600" description="ShelfBase" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="2" type="drilling" side="2" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="3" type="drilling" side="2" x="9" y="550" xo="9" yo="550" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="4" type="drilling" side="2" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="2" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="6" type="drilling" side="2" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="7" type="drilling" side="2" x="9" y="500" xo="9" yo="500" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="8" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="9" type="drilling" side="4" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="10" type="drilling" side="4" x="9" y="550" xo="9" yo="550" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="11" type="drilling" side="4" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="12" type="drilling" side="4" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="13" type="drilling" side="4" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="14" type="drilling" side="4" x="9" y="500" xo="9" yo="500" xl="0" yl="0" d="8" depth="25"/>
+        </operations>
+      </detail>
+      <detail id="7" material="1" barcode="" amount="6" width="664" height="70" description="Basement" multiplicity="1" grain="0" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="20" xo="9" yo="20" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="2" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="3" type="drilling" side="4" x="9" y="20" xo="9" yo="20" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="4" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="8" depth="25"/>
+        </operations>
+      </detail>
+      <detail id="8" material="1" barcode="" amount="1" width="2650" height="700" description="BigLeftSide" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="1" x="20" y="9" xo="20" yo="9" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="2" type="drilling" side="1" x="50" y="9" xo="50" yo="9" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="3" type="drilling" side="1" x="20" y="691" xo="20" yo="691" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="4" type="drilling" side="1" x="50" y="691" xo="50" yo="691" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="5" type="drilling" side="1" x="79" y="100" xo="79" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="6" type="drilling" side="1" x="79" y="300" xo="79" yo="300" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="7" type="drilling" side="1" x="79" y="400" xo="79" yo="400" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="8" type="drilling" side="1" x="79" y="600" xo="79" yo="600" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="9" type="drilling" side="1" x="79" y="50" xo="79" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="10" type="drilling" side="1" x="79" y="350" xo="79" yo="350" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="11" type="drilling" side="1" x="79" y="650" xo="79" yo="650" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="12" type="drilling" side="1" x="889" y="50" xo="889" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="13" type="drilling" side="1" x="889" y="300" xo="889" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="14" type="drilling" side="1" x="889" y="550" xo="889" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="15" type="drilling" side="1" x="889" y="100" xo="889" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="16" type="drilling" side="1" x="889" y="250" xo="889" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="17" type="drilling" side="1" x="889" y="350" xo="889" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="18" type="drilling" side="1" x="889" y="500" xo="889" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="19" type="drilling" side="1" x="2033" y="100" xo="2033" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="20" type="drilling" side="1" x="2033" y="250" xo="2033" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="21" type="drilling" side="1" x="2033" y="350" xo="2033" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="22" type="drilling" side="1" x="2033" y="500" xo="2033" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="23" type="drilling" side="1" x="2033" y="50" xo="2033" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="24" type="drilling" side="1" x="2033" y="300" xo="2033" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="25" type="drilling" side="1" x="2033" y="550" xo="2033" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="26" type="drilling" side="1" x="2641" y="50" xo="2641" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="27" type="drilling" side="1" x="2641" y="350" xo="2641" yo="350" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="28" type="drilling" side="1" x="2641" y="650" xo="2641" yo="650" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="29" type="drilling" side="1" x="2641" y="100" xo="2641" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="30" type="drilling" side="1" x="2641" y="300" xo="2641" yo="300" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="31" type="drilling" side="1" x="2641" y="400" xo="2641" yo="400" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="32" type="drilling" side="1" x="2641" y="600" xo="2641" yo="600" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="33" type="drilling" side="1" x="1166" y="100" xo="1166" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="34" type="drilling" side="1" x="1166" y="500" xo="1166" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="35" type="drilling" side="1" x="1452" y="100" xo="1452" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="36" type="drilling" side="1" x="1452" y="500" xo="1452" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="37" type="drilling" side="1" x="1738" y="100" xo="1738" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="38" type="drilling" side="1" x="1738" y="500" xo="1738" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="39" type="drilling" side="1" x="2310" y="100" xo="2310" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="40" type="drilling" side="1" x="2310" y="500" xo="2310" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="41" type="drilling" side="1" x="243" y="129" xo="243" yo="129" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="42" type="drilling" side="1" x="243" y="193" xo="243" yo="193" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="43" type="drilling" side="1" x="243" y="321" xo="243" yo="321" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="44" type="drilling" side="1" x="243" y="417" xo="243" yo="417" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="45" type="drilling" side="1" x="243" y="545" xo="243" yo="545" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="46" type="drilling" side="1" x="443" y="129" xo="443" yo="129" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="47" type="drilling" side="1" x="443" y="193" xo="443" yo="193" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="48" type="drilling" side="1" x="443" y="321" xo="443" yo="321" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="49" type="drilling" side="1" x="443" y="417" xo="443" yo="417" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="50" type="drilling" side="1" x="443" y="545" xo="443" yo="545" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="51" type="drilling" side="1" x="641" y="129" xo="641" yo="129" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="52" type="drilling" side="1" x="641" y="193" xo="641" yo="193" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="53" type="drilling" side="1" x="641" y="321" xo="641" yo="321" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="54" type="drilling" side="1" x="641" y="417" xo="641" yo="417" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="55" type="drilling" side="1" x="641" y="545" xo="641" yo="545" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="56" type="drilling" side="1" x="839" y="129" xo="839" yo="129" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="57" type="drilling" side="1" x="839" y="193" xo="839" yo="193" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="58" type="drilling" side="1" x="839" y="321" xo="839" yo="321" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="59" type="drilling" side="1" x="839" y="417" xo="839" yo="417" xl="0" yl="0" d="2" depth="2"/>
+          <operation id="60" type="drilling" side="1" x="839" y="545" xo="839" yo="545" xl="0" yl="0" d="2" depth="2"/>
+        </operations>
+      </detail>
+      <detail id="9" material="1" barcode="" amount="1" width="2650" height="700" description="BigRightSide" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="1" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="2" type="drilling" side="1" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="3" type="drilling" side="1" x="9" y="650" xo="9" yo="650" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="4" type="drilling" side="1" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="5" type="drilling" side="1" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="6" type="drilling" side="1" x="9" y="400" xo="9" yo="400" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="7" type="drilling" side="1" x="9" y="600" xo="9" yo="600" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="8" type="drilling" side="1" x="2571" y="100" xo="2571" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="9" type="drilling" side="1" x="2571" y="300" xo="2571" yo="300" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="10" type="drilling" side="1" x="2571" y="400" xo="2571" yo="400" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="11" type="drilling" side="1" x="2571" y="600" xo="2571" yo="600" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="12" type="drilling" side="1" x="2571" y="50" xo="2571" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="13" type="drilling" side="1" x="2571" y="350" xo="2571" yo="350" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="14" type="drilling" side="1" x="2571" y="650" xo="2571" yo="650" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="15" type="drilling" side="1" x="2630" y="9" xo="2630" yo="9" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="16" type="drilling" side="1" x="2630" y="691" xo="2630" yo="691" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="17" type="drilling" side="1" x="2600" y="9" xo="2600" yo="9" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="18" type="drilling" side="1" x="2600" y="691" xo="2600" yo="691" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="19" type="drilling" side="1" x="903" y="100" xo="903" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="20" type="drilling" side="1" x="903" y="350" xo="903" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="21" type="drilling" side="1" x="903" y="250" xo="903" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="22" type="drilling" side="1" x="903" y="500" xo="903" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="23" type="drilling" side="1" x="903" y="50" xo="903" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="24" type="drilling" side="1" x="903" y="300" xo="903" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="25" type="drilling" side="1" x="903" y="550" xo="903" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="26" type="drilling" side="1" x="1999" y="50" xo="1999" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="27" type="drilling" side="1" x="1999" y="300" xo="1999" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="28" type="drilling" side="1" x="1999" y="550" xo="1999" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="29" type="drilling" side="1" x="1999" y="100" xo="1999" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="30" type="drilling" side="1" x="1999" y="250" xo="1999" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="31" type="drilling" side="1" x="1999" y="350" xo="1999" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="32" type="drilling" side="1" x="1999" y="500" xo="1999" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="33" type="drilling" side="1" x="340" y="100" xo="340" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="34" type="drilling" side="1" x="340" y="500" xo="340" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="35" type="drilling" side="1" x="626" y="100" xo="626" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="36" type="drilling" side="1" x="626" y="500" xo="626" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="37" type="drilling" side="1" x="2294" y="100" xo="2294" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="38" type="drilling" side="1" x="2294" y="500" xo="2294" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+        </operations>
+      </detail>
+      <detail id="10" material="1" barcode="" amount="1" width="2544" height="600" description="BigMiddle" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="2" type="drilling" side="2" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="3" type="drilling" side="2" x="9" y="550" xo="9" yo="550" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="4" type="drilling" side="2" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="2" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="6" type="drilling" side="2" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="7" type="drilling" side="2" x="9" y="500" xo="9" yo="500" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="8" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="9" type="drilling" side="4" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="10" type="drilling" side="4" x="9" y="550" xo="9" yo="550" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="11" type="drilling" side="4" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="12" type="drilling" side="4" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="13" type="drilling" side="4" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="14" type="drilling" side="4" x="9" y="500" xo="9" yo="500" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="15" type="drilling" side="6" x="801" y="50" xo="801" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="16" type="drilling" side="6" x="801" y="300" xo="801" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="17" type="drilling" side="6" x="801" y="550" xo="801" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="18" type="drilling" side="6" x="801" y="100" xo="801" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="19" type="drilling" side="6" x="801" y="250" xo="801" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="20" type="drilling" side="6" x="801" y="350" xo="801" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="21" type="drilling" side="6" x="801" y="500" xo="801" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="22" type="drilling" side="6" x="1945" y="50" xo="1945" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="23" type="drilling" side="6" x="1945" y="300" xo="1945" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="24" type="drilling" side="6" x="1945" y="550" xo="1945" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="25" type="drilling" side="6" x="1945" y="100" xo="1945" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="26" type="drilling" side="6" x="1945" y="250" xo="1945" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="27" type="drilling" side="6" x="1945" y="350" xo="1945" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="28" type="drilling" side="6" x="1945" y="500" xo="1945" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="29" type="drilling" side="6" x="1078" y="100" xo="1078" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="30" type="drilling" side="6" x="1078" y="500" xo="1078" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="31" type="drilling" side="6" x="1364" y="100" xo="1364" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="32" type="drilling" side="6" x="1364" y="500" xo="1364" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="33" type="drilling" side="6" x="1650" y="125" xo="1650" yo="125" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="34" type="drilling" side="6" x="1650" y="475" xo="1650" yo="475" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="35" type="drilling" side="6" x="2222" y="100" xo="2222" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="36" type="drilling" side="6" x="2222" y="500" xo="2222" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="37" type="drilling" side="1" x="563" y="50" xo="563" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="38" type="drilling" side="1" x="563" y="300" xo="563" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="39" type="drilling" side="1" x="563" y="550" xo="563" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="40" type="drilling" side="1" x="563" y="100" xo="563" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="41" type="drilling" side="1" x="563" y="250" xo="563" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="42" type="drilling" side="1" x="563" y="350" xo="563" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="43" type="drilling" side="1" x="563" y="500" xo="563" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="44" type="drilling" side="1" x="1659" y="100" xo="1659" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="45" type="drilling" side="1" x="1659" y="250" xo="1659" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="46" type="drilling" side="1" x="1659" y="350" xo="1659" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="47" type="drilling" side="1" x="1659" y="500" xo="1659" yo="500" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="48" type="drilling" side="1" x="1659" y="50" xo="1659" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="49" type="drilling" side="1" x="1659" y="300" xo="1659" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="50" type="drilling" side="1" x="1659" y="550" xo="1659" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="51" type="drilling" side="1" x="1936" y="125" xo="1936" yo="125" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="52" type="drilling" side="1" x="1936" y="475" xo="1936" yo="475" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="53" type="drilling" side="1" x="2222" y="125" xo="2222" yo="125" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="54" type="drilling" side="1" x="2222" y="475" xo="2222" yo="475" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="55" type="drilling" side="1" x="268" y="100" xo="268" yo="100" xl="0" yl="0" d="5" depth="8.5"/>
+          <operation id="56" type="drilling" side="1" x="268" y="500" xo="268" yo="500" xl="0" yl="0" d="5" depth="8.5"/>
+        </operations>
+      </detail>
+      <detail id="11" material="1" barcode="" amount="1" width="1824" height="700" description="BigTop" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="2" type="drilling" side="2" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="3" type="drilling" side="2" x="9" y="650" xo="9" yo="650" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="4" type="drilling" side="2" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="2" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="6" type="drilling" side="2" x="9" y="400" xo="9" yo="400" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="7" type="drilling" side="2" x="9" y="600" xo="9" yo="600" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="8" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="9" type="drilling" side="4" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="10" type="drilling" side="4" x="9" y="650" xo="9" yo="650" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="11" type="drilling" side="4" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="12" type="drilling" side="4" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="13" type="drilling" side="4" x="9" y="400" xo="9" yo="400" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="14" type="drilling" side="4" x="9" y="600" xo="9" yo="600" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="15" type="drilling" side="1" x="871" y="50" xo="871" yo="50" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="16" type="drilling" side="1" x="871" y="300" xo="871" yo="300" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="17" type="drilling" side="1" x="871" y="550" xo="871" yo="550" xl="0" yl="0" d="7" depth="30"/>
+          <operation id="18" type="drilling" side="1" x="871" y="100" xo="871" yo="100" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="19" type="drilling" side="1" x="871" y="250" xo="871" yo="250" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="20" type="drilling" side="1" x="871" y="350" xo="871" yo="350" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="21" type="drilling" side="1" x="871" y="500" xo="871" yo="500" xl="0" yl="0" d="8" depth="12"/>
+        </operations>
+      </detail>
+      <detail id="12" material="1" barcode="" amount="1" width="1824" height="700" description="BigBottom" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="2" type="drilling" side="4" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="3" type="drilling" side="4" x="9" y="650" xo="9" yo="650" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="4" type="drilling" side="4" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="4" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="6" type="drilling" side="4" x="9" y="400" xo="9" yo="400" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="7" type="drilling" side="4" x="9" y="600" xo="9" yo="600" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="8" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="9" type="drilling" side="2" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="10" type="drilling" side="2" x="9" y="650" xo="9" yo="650" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="11" type="drilling" side="2" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="12" type="drilling" side="2" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="13" type="drilling" side="2" x="9" y="400" xo="9" yo="400" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="14" type="drilling" side="2" x="9" y="600" xo="9" yo="600" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="15" type="drilling" side="1" x="953" y="50" xo="871" yo="50" xl="w" yl="0" d="7" depth="30"/>
+          <operation id="16" type="drilling" side="1" x="953" y="300" xo="871" yo="300" xl="w" yl="0" d="7" depth="30"/>
+          <operation id="17" type="drilling" side="1" x="953" y="550" xo="871" yo="550" xl="w" yl="0" d="7" depth="30"/>
+          <operation id="18" type="drilling" side="1" x="953" y="100" xo="871" yo="100" xl="w" yl="0" d="8" depth="12"/>
+          <operation id="19" type="drilling" side="1" x="953" y="250" xo="871" yo="250" xl="w" yl="0" d="8" depth="12"/>
+          <operation id="20" type="drilling" side="1" x="953" y="350" xo="871" yo="350" xl="w" yl="0" d="8" depth="12"/>
+          <operation id="21" type="drilling" side="1" x="953" y="500" xo="871" yo="500" xl="w" yl="0" d="8" depth="12"/>
+        </operations>
+      </detail>
+      <detail id="13" material="1" barcode="" amount="2" width="1824" height="70" description="BigFront" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="20" xo="9" yo="20" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="2" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="3" type="drilling" side="4" x="9" y="20" xo="9" yo="20" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="4" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="1" x="912" y="20" xo="912" yo="20" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="6" type="drilling" side="1" x="912" y="50" xo="912" yo="50" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="7" type="drilling" side="1" x="456" y="20" xo="456" yo="20" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="8" type="drilling" side="1" x="456" y="50" xo="456" yo="50" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="9" type="drilling" side="1" x="1368" y="20" xo="1368" yo="20" xl="0" yl="0" d="8" depth="12"/>
+          <operation id="10" type="drilling" side="1" x="1368" y="50" xo="1368" yo="50" xl="0" yl="0" d="8" depth="12"/>
+        </operations>
+      </detail>
+      <detail id="14" material="1" barcode="" amount="2" width="862" height="600" description="BigShelfLeftBase" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="2" type="drilling" side="2" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="3" type="drilling" side="2" x="9" y="550" xo="9" yo="550" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="4" type="drilling" side="2" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="2" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="6" type="drilling" side="2" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="7" type="drilling" side="2" x="9" y="500" xo="9" yo="500" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="8" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="9" type="drilling" side="4" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="10" type="drilling" side="4" x="9" y="550" xo="9" yo="550" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="11" type="drilling" side="4" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="12" type="drilling" side="4" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="13" type="drilling" side="4" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="14" type="drilling" side="4" x="9" y="500" xo="9" yo="500" xl="0" yl="0" d="8" depth="25"/>
+        </operations>
+      </detail>
+      <detail id="15" material="1" barcode="" amount="4" width="860" height="598" description="BigShelfLeftSoft" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="16" material="1" barcode="" amount="2" width="944" height="600" description="BigShelfRightHard" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="2" type="drilling" side="2" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="3" type="drilling" side="2" x="9" y="550" xo="9" yo="550" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="4" type="drilling" side="2" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="5" type="drilling" side="2" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="6" type="drilling" side="2" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="7" type="drilling" side="2" x="9" y="500" xo="9" yo="500" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="8" type="drilling" side="4" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="9" type="drilling" side="4" x="9" y="300" xo="9" yo="300" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="10" type="drilling" side="4" x="9" y="550" xo="9" yo="550" xl="0" yl="0" d="4.5" depth="33"/>
+          <operation id="11" type="drilling" side="4" x="9" y="100" xo="9" yo="100" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="12" type="drilling" side="4" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="13" type="drilling" side="4" x="9" y="350" xo="9" yo="350" xl="0" yl="0" d="8" depth="25"/>
+          <operation id="14" type="drilling" side="4" x="9" y="500" xo="9" yo="500" xl="0" yl="0" d="8" depth="25"/>
+        </operations>
+      </detail>
+      <detail id="17" material="1" barcode="" amount="3" width="942" height="598" description="BigShelfRightSoft" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="18" material="1" barcode="" amount="4" width="190" height="854" description="Fasad" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="1">
+        <edges>
+          <left type="kromka" param="2" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="kromka" param="2" drop="0"/>
+          <bottom type="kromka" param="2" drop="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" side="1" x="97" y="365" xo="97" yo="365" xl="0" yl="0" d="5" depth="30"/>
+          <operation id="2" type="drilling" side="1" x="97" y="493" xo="97" yo="493" xl="0" yl="0" d="5" depth="30"/>
+        </operations>
+      </detail>
+      <detail id="19" material="1" barcode="" amount="5" width="1800" height="120" description="Bar" multiplicity="1" grain="1" decoratedSide="" marker="1" machineCode="0">
+        <edges>
+          <left type="kromka" param="2" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="kromka" param="2" drop="0"/>
+          <bottom type="kromka" param="2" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="20" material="1" barcode="" amount="3" width="1000" height="120" description="GBar" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="kromka" param="2" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="kromka" param="2" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="21" material="1" barcode="" amount="1" width="2650" height="760" description="BarRight" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="0">
+        <edges>
+          <left type="" param="0" drop="0"/>
+          <top type="kromka" param="2" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="" param="0" drop="0"/>
+        </edges>
+      </detail>
+      <detail id="22" material="1" barcode="" amount="4" width="250" height="723" description="" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="2">
+        <edges>
+          <left type="kromka" param="2" drop="1"/>
+          <top type="" param="0" drop="0"/>
+          <right type="" param="0" drop="0"/>
+          <bottom type="kromka" param="2" drop="1"/>
+        </edges>
+        <operations>
+          <operation id="1" type="cornerOperation" corner="1" subtype="1" x="0" y="0" r="250" ext="0" edgeMaterial="2" edgeCovering="0"/>
+        </operations>
+      </detail>
+    </details>
+  </viyar>
+  <good id="1" name="Egger H3304 ST9 Дуб Шато серый перламутровый 18мм" typeId="sheet" unit="м2" w="2070" l="2800" t="18">
+    <part id="1001" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="2" name="Egger H3304 ST9 Дуб Шато серый перламутровый 18мм" typeId="sheet" unit="м2" w="2070" l="2800" t="36">
+    <part id="1002" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="3" name="Egger H3304 ST9 Дуб Шато серый перламутровый 18мм" typeId="sheet" unit="м2" w="2070" l="2800" t="54">
+    <part id="1003" l="2800" w="2070" count="1000" usedCount="0"/>
+  </good>
+  <good id="4" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <good id="5" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <good id="6" typeId="tool.cutting" typeName="Stanok" name="Stanok1" swMaxturns="4" swSawthick="5.5" swPackageHeight="60" swComplexBand="false" swSort="2" swSortInBand="0" swMinPruning="0"/>
+  <operation id="1" typeId="CS" tool1="4" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="1"/>
+    <part id="1001"/>
+    <part id="1"/>
+    <part id="2"/>
+    <part id="3"/>
+    <part id="4"/>
+    <part id="5"/>
+    <part id="6"/>
+    <part id="7"/>
+    <part id="8"/>
+    <part id="9"/>
+    <part id="10"/>
+    <part id="11"/>
+    <part id="12"/>
+    <part id="13"/>
+    <part id="14"/>
+    <part id="15"/>
+    <part id="16"/>
+    <part id="17"/>
+    <part id="18"/>
+    <part id="19"/>
+    <part id="20"/>
+    <part id="21"/>
+    <part id="22"/>
+  </operation>
+  <operation id="2" typeId="CS" tool1="5" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="2"/>
+    <part id="1002"/>
+  </operation>
+  <operation id="3" typeId="CS" tool1="6" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
+    <material id="3"/>
+    <part id="1003"/>
+  </operation>
+  <good id="7" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0">
+    <part id="1" usedCount="0" dl="2650" dw="702" count="1" name="LeftSide" txt="true" elb="@operation#5" elbMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="2" usedCount="0" dl="2650" dw="702" count="1" name="RightSide" txt="true" elb="@operation#5" elbMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="3" usedCount="0" dl="1364" dw="702" count="2" name="TopSide" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="4" usedCount="0" dl="1364" dw="70" count="2" name="FromtPanel" txt="true"/>
+    <part id="5" usedCount="0" dl="1362" dw="600" count="1" name="Shelf" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="6" usedCount="0" dl="1364" dw="602" count="1" name="ShelfBase" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="7" usedCount="0" dl="664" dw="70" count="6" name="Basement" txt="false"/>
+    <part id="8" usedCount="0" dl="2650" dw="702" count="1" name="BigLeftSide" txt="true" elb="@operation#5" elbMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="9" usedCount="0" dl="2650" dw="702" count="1" name="BigRightSide" txt="true" elb="@operation#5" elbMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="10" usedCount="0" dl="2544" dw="602" count="1" name="BigMiddle" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="11" usedCount="0" dl="1824" dw="702" count="1" name="BigTop" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="12" usedCount="0" dl="1824" dw="702" count="1" name="BigBottom" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="13" usedCount="0" dl="1824" dw="70" count="2" name="BigFront" txt="true"/>
+    <part id="14" usedCount="0" dl="862" dw="602" count="2" name="BigShelfLeftBase" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="15" usedCount="0" dl="860" dw="600" count="4" name="BigShelfLeftSoft" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="16" usedCount="0" dl="944" dw="602" count="2" name="BigShelfRightHard" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="17" usedCount="0" dl="942" dw="600" count="3" name="BigShelfRightSoft" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="18" usedCount="0" dl="858" dw="194" count="4" name="Fasad" txt="true" ell="@operation#5" ellMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" elr="@operation#5" elrMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" elb="@operation#5" elbMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="19" usedCount="0" dl="1804" dw="124" count="5" name="Bar" txt="true" ell="@operation#5" ellMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" elr="@operation#5" elrMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" elb="@operation#5" elbMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="20" usedCount="0" dl="1002" dw="124" count="3" name="GBar" txt="true" ell="@operation#5" ellMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" elb="@operation#5" elbMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="21" usedCount="0" dl="2650" dw="762" count="1" name="BarRight" txt="true" elt="@operation#5" eltMat="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм"/>
+    <part id="22" usedCount="0" dl="723" dw="250" count="4" name="" txt="true"/>
+  </good>
+  <good id="8" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0"/>
+  <good id="9" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0"/>
+  <good id="10" typeId="tool.edgeline" elRestSide="0" elMinSize="0" elWidthPreJoint="0" elCost="0"/>
+  <good id="11" name="REHAU 812 V ABS Дуб Шато серо-глазурный 28х2мм" typeId="band" t="2" w="28" unit="м" count="0" cost="0"/>
+  <operation id="5" tool1="10" typeId="EL" elColor="rgb(0,0,255)" elLineMark="2" elSymbol="A" elWastePRC="0" elCalcMat="true" costMaterial="0" costOperation="0" costTotal="0" printable="true" startNewPage="true">
+    <material id="11"/>
+    <part id="1"/>
+    <part id="2"/>
+    <part id="3"/>
+    <part id="5"/>
+    <part id="6"/>
+    <part id="8"/>
+    <part id="9"/>
+    <part id="10"/>
+    <part id="11"/>
+    <part id="12"/>
+    <part id="14"/>
+    <part id="15"/>
+    <part id="16"/>
+    <part id="17"/>
+    <part id="18"/>
+    <part id="18"/>
+    <part id="18"/>
+    <part id="18"/>
+    <part id="19"/>
+    <part id="19"/>
+    <part id="19"/>
+    <part id="19"/>
+    <part id="20"/>
+    <part id="20"/>
+    <part id="20"/>
+    <part id="21"/>
+  </operation>
+  <operation id="6" typeId="XNC" side="true" bySizeDetail="true" code="0001_1" typeName="LeftSide" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore5&quot; d=&quot;5&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;9&quot; y=&quot;650&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;600&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;400&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;350&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;300&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;465&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;465&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;903&quot; y=&quot;550&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;903&quot; y=&quot;500&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;903&quot; y=&quot;350&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;903&quot; y=&quot;300&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;903&quot; y=&quot;250&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;903&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;903&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;650&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;600&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;400&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;350&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;300&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2600&quot; y=&quot;691&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2600&quot; y=&quot;9&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2630&quot; y=&quot;691&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2630&quot; y=&quot;9&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="1"/>
+  </operation>
+  <operation id="7" typeId="XNC" side="true" bySizeDetail="true" code="0002_1" typeName="RightSide" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Bore5&quot; d=&quot;5&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;20&quot; y=&quot;691&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;20&quot; y=&quot;9&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;50&quot; y=&quot;691&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;50&quot; y=&quot;9&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;650&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;600&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;400&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;350&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;300&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;550&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;500&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;350&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;300&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;250&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2185&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;2185&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;650&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;600&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;400&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;350&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;300&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="2"/>
+  </operation>
+  <operation id="8" typeId="XNC" side="false" bySizeDetail="true" code="0003_2" typeName="TopSide" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore4.5&quot; d=&quot;4.5&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bl ver=&quot;2&quot; y=&quot;652&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;602&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;402&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;652&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;602&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;402&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="2">
+    <part id="3"/>
+  </operation>
+  <operation id="9" typeId="XNC" side="true" bySizeDetail="true" code="0004_1" typeName="FromtPanel" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;341&quot; y=&quot;50&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;341&quot; y=&quot;20&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;682&quot; y=&quot;50&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;682&quot; y=&quot;20&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1023&quot; y=&quot;50&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1023&quot; y=&quot;20&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;50&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;20&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;50&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;20&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="2">
+    <part id="4"/>
+  </operation>
+  <operation id="10" typeId="XNC" side="false" bySizeDetail="true" code="0006_2" typeName="ShelfBase" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore4.5&quot; d=&quot;4.5&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bl ver=&quot;2&quot; y=&quot;552&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;502&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;252&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;552&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;502&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;252&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="6"/>
+  </operation>
+  <operation id="11" typeId="XNC" side="false" bySizeDetail="true" code="0007_2" typeName="Basement" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bl ver=&quot;2&quot; y=&quot;50&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;20&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;50&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;20&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="6">
+    <part id="7"/>
+  </operation>
+  <operation id="12" typeId="XNC" side="true" bySizeDetail="true" code="0008_1" typeName="BigLeftSide" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore5&quot; d=&quot;5&quot;/&gt;&lt;tool name=&quot;Bore2&quot; d=&quot;2&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;9&quot; y=&quot;650&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;600&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;400&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;350&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;300&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;9&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;340&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;340&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;617&quot; y=&quot;550&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;617&quot; y=&quot;500&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;617&quot; y=&quot;350&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;617&quot; y=&quot;300&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;617&quot; y=&quot;250&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;617&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;617&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;912&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;912&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1198&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1198&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1484&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1484&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1761&quot; y=&quot;550&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1761&quot; y=&quot;500&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1761&quot; y=&quot;350&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1761&quot; y=&quot;300&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1761&quot; y=&quot;250&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1761&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1761&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1811&quot; y=&quot;545&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;1811&quot; y=&quot;417&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;1811&quot; y=&quot;321&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;1811&quot; y=&quot;193&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;1811&quot; y=&quot;129&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2009&quot; y=&quot;545&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2009&quot; y=&quot;417&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2009&quot; y=&quot;321&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2009&quot; y=&quot;193&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2009&quot; y=&quot;129&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2207&quot; y=&quot;545&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2207&quot; y=&quot;417&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2207&quot; y=&quot;321&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2207&quot; y=&quot;193&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2207&quot; y=&quot;129&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2407&quot; y=&quot;545&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2407&quot; y=&quot;417&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2407&quot; y=&quot;321&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2407&quot; y=&quot;193&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2407&quot; y=&quot;129&quot; dp=&quot;2&quot; name=&quot;Bore2&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;650&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;600&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;400&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;350&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;300&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2571&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2600&quot; y=&quot;691&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2600&quot; y=&quot;9&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2630&quot; y=&quot;691&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2630&quot; y=&quot;9&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="8"/>
+  </operation>
+  <operation id="13" typeId="XNC" side="true" bySizeDetail="true" code="0009_1" typeName="BigRightSide" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Bore5&quot; d=&quot;5&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;20&quot; y=&quot;691&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;20&quot; y=&quot;9&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;50&quot; y=&quot;691&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;50&quot; y=&quot;9&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;650&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;600&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;400&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;350&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;300&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;79&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;356&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;356&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;651&quot; y=&quot;550&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;651&quot; y=&quot;500&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;651&quot; y=&quot;350&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;651&quot; y=&quot;300&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;651&quot; y=&quot;250&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;651&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;651&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;550&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;500&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;350&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;300&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;250&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1747&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2024&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;2024&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;2310&quot; y=&quot;500&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;2310&quot; y=&quot;100&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;650&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;600&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;400&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;350&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;300&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;100&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2641&quot; y=&quot;50&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="9"/>
+  </operation>
+  <operation id="14" typeId="XNC" side="true" bySizeDetail="true" code="0010_1" typeName="BigMiddle" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore5&quot; d=&quot;5&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore4.5&quot; d=&quot;4.5&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;268&quot; y=&quot;502&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;268&quot; y=&quot;102&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;563&quot; y=&quot;552&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;563&quot; y=&quot;502&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;563&quot; y=&quot;352&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;563&quot; y=&quot;302&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;563&quot; y=&quot;252&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;563&quot; y=&quot;102&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;563&quot; y=&quot;52&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;801&quot; y=&quot;552&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;801&quot; y=&quot;302&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;801&quot; y=&quot;52&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1659&quot; y=&quot;552&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1659&quot; y=&quot;502&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1659&quot; y=&quot;352&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1659&quot; y=&quot;302&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1659&quot; y=&quot;252&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1659&quot; y=&quot;102&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1659&quot; y=&quot;52&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1936&quot; y=&quot;477&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1936&quot; y=&quot;127&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1945&quot; y=&quot;552&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1945&quot; y=&quot;302&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1945&quot; y=&quot;52&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2222&quot; y=&quot;477&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;2222&quot; y=&quot;127&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;552&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;502&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;252&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;552&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;502&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;252&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="10"/>
+  </operation>
+  <operation id="15" typeId="XNC" side="false" bySizeDetail="true" code="0010_2" typeName="BigMiddle" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore5&quot; d=&quot;5&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore4.5&quot; d=&quot;4.5&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;801&quot; y=&quot;502&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;801&quot; y=&quot;352&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;801&quot; y=&quot;252&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;801&quot; y=&quot;102&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1078&quot; y=&quot;502&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1078&quot; y=&quot;102&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1364&quot; y=&quot;502&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1364&quot; y=&quot;102&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1650&quot; y=&quot;477&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1650&quot; y=&quot;127&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;1945&quot; y=&quot;502&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1945&quot; y=&quot;352&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1945&quot; y=&quot;252&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1945&quot; y=&quot;102&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;2222&quot; y=&quot;502&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;bf x=&quot;2222&quot; y=&quot;102&quot; dp=&quot;8.5&quot; name=&quot;Bore5&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="10"/>
+  </operation>
+  <operation id="16" typeId="XNC" side="true" bySizeDetail="true" code="0011_1" typeName="BigTop" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore4.5&quot; d=&quot;4.5&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;871&quot; y=&quot;652&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;871&quot; y=&quot;602&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;871&quot; y=&quot;452&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;871&quot; y=&quot;402&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;871&quot; y=&quot;352&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;871&quot; y=&quot;202&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;871&quot; y=&quot;152&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;652&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;602&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;402&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;652&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;602&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;402&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="11"/>
+  </operation>
+  <operation id="17" typeId="XNC" side="true" bySizeDetail="true" code="0012_1" typeName="BigBottom" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore4.5&quot; d=&quot;4.5&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;953&quot; y=&quot;652&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;953&quot; y=&quot;602&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;953&quot; y=&quot;452&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;953&quot; y=&quot;402&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;953&quot; y=&quot;352&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;953&quot; y=&quot;202&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;953&quot; y=&quot;152&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;652&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;602&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;402&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;652&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;602&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;402&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="1">
+    <part id="12"/>
+  </operation>
+  <operation id="18" typeId="XNC" side="true" bySizeDetail="true" code="0013_1" typeName="BigFront" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;456&quot; y=&quot;50&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;456&quot; y=&quot;20&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;912&quot; y=&quot;50&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;912&quot; y=&quot;20&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1368&quot; y=&quot;50&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bf x=&quot;1368&quot; y=&quot;20&quot; dp=&quot;12&quot; name=&quot;Bore8&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;50&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;20&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;50&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;20&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="2">
+    <part id="13"/>
+  </operation>
+  <operation id="19" typeId="XNC" side="false" bySizeDetail="true" code="0014_2" typeName="BigShelfLeftBase" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore4.5&quot; d=&quot;4.5&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bl ver=&quot;2&quot; y=&quot;552&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;502&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;252&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;552&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;502&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;252&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="2">
+    <part id="14"/>
+  </operation>
+  <operation id="20" typeId="XNC" side="false" bySizeDetail="true" code="0016_2" typeName="BigShelfRightHard" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore4.5&quot; d=&quot;4.5&quot;/&gt;&lt;tool name=&quot;Bore8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bl ver=&quot;2&quot; y=&quot;552&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;502&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;252&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;bl ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;552&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;502&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;352&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;302&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;252&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;102&quot; z=&quot;9&quot; dp=&quot;25&quot; name=&quot;Bore8&quot; m=&quot;False&quot; /&gt;&lt;br ver=&quot;2&quot; y=&quot;52&quot; z=&quot;9&quot; dp=&quot;33&quot; name=&quot;Bore4.5&quot; m=&quot;False&quot; /&gt;&lt;/program&gt;" count="2">
+    <part id="16"/>
+  </operation>
+  <operation id="21" typeId="XNC" side="true" bySizeDetail="true" code="0018_1" typeName="Fasad" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore5SV&quot; d=&quot;5&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;365&quot; y=&quot;97&quot; dp=&quot;25&quot; name=&quot;Bore5SV&quot; /&gt;&lt;bf x=&quot;493&quot; y=&quot;97&quot; dp=&quot;25&quot; name=&quot;Bore5SV&quot; /&gt;&lt;/program&gt;" count="4">
+    <part id="18"/>
+  </operation>
+  <operation id="22" typeId="XNC" side="false" bySizeDetail="true" code="0022_2" typeName="" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;ms x=&quot;0&quot; y=&quot;250&quot; dp=&quot;20&quot; in=&quot;0&quot; out=&quot;1&quot; c=&quot;2&quot; name=&quot;Mill20&quot; /&gt;&lt;mac x=&quot;250&quot; y=&quot;0&quot; dp=&quot;20&quot; cx=&quot;250&quot; cy=&quot;250&quot; dir=&quot;true&quot; /&gt;&lt;/program&gt;" count="4">
+    <part id="22"/>
+  </operation>
+</project>
