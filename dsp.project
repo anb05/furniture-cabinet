@@ -605,17 +605,6 @@
           <operation id="14" type="drilling" side="1" x="2500" y="500" xo="2500" yo="500" xl="0" yl="0" d="8" depth="23"/>
         </operations>
       </detail>
-      <detail id="23" material="1" barcode="" amount="4" width="723" height="240" description="" multiplicity="1" grain="1" decoratedSide="" marker="0" machineCode="2">
-        <edges>
-          <left type="kromka" param="2" drop="1"/>
-          <top type="kromka" param="2" drop="1"/>
-          <right type="" param="0" drop="0"/>
-          <bottom type="" param="0" drop="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="cornerOperation" corner="2" subtype="1" x="0" y="0" r="250" ext="1" edgeMaterial="2" edgeCovering="0"/>
-        </operations>
-      </detail>
     </details>
   </viyar>
   <good id="1" name="Egger H3304 ST9 Дуб Шато серый перламутровый 18мм" typeId="sheet" unit="м2" w="2070" l="2800" t="18">
@@ -655,7 +644,6 @@
     <part id="20"/>
     <part id="21"/>
     <part id="22"/>
-    <part id="23"/>
   </operation>
   <operation id="2" typeId="CS" tool1="5" cSizeMode="1" cTrimL="10" cTrimW="10" cTrimEL="10" cTrimEW="10" csDirectCut="0" csTexture="true" cFillRep="0.9" cMinDimRegWaste1="300" cMinDimRegWaste2="300" cTrimWaste="false">
     <material id="2"/>
@@ -688,7 +676,6 @@
     <part id="20" usedCount="0" dl="1604" dw="124" count="4" name="BarSmall" txt="true" ell="@operation#5" ellMat="REHAU ABS Дуб Шато серо-глазурный 23х2мм" elt="@operation#5" eltMat="REHAU ABS Дуб Шато серо-глазурный 23х2мм" elr="@operation#5" elrMat="REHAU ABS Дуб Шато серо-глазурный 23х2мм" elb="@operation#5" elbMat="REHAU ABS Дуб Шато серо-глазурный 23х2мм"/>
     <part id="21" usedCount="0" dl="1002" dw="104" count="3" name="GBar" txt="true" ell="@operation#5" ellMat="REHAU ABS Дуб Шато серо-глазурный 23х2мм" elt="@operation#5" eltMat="REHAU ABS Дуб Шато серо-глазурный 23х2мм" elb="@operation#5" elbMat="REHAU ABS Дуб Шато серо-глазурный 23х2мм"/>
     <part id="22" usedCount="0" dl="2650" dw="762" count="1" name="BarRight" txt="true" elt="@operation#5" eltMat="REHAU ABS Дуб Шато серо-глазурный 23х2мм"/>
-    <part id="23" usedCount="0" dl="723" dw="240" count="4" name="" txt="true"/>
   </good>
   <good id="8" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0"/>
   <good id="9" count="1" name="Изделие" typeId="product" costOperation="0" costMaterial="0" cost="0"/>
@@ -779,8 +766,5 @@
   </operation>
   <operation id="23" typeId="XNC" side="true" bySizeDetail="true" code="0022_1" typeName="BarRight" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore8SV&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Bore7SV&quot; d=&quot;7&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;bf x=&quot;150&quot; y=&quot;612&quot; dp=&quot;25&quot; name=&quot;Bore8SV&quot; /&gt;&lt;bf x=&quot;150&quot; y=&quot;262&quot; dp=&quot;25&quot; name=&quot;Bore8SV&quot; /&gt;&lt;bf x=&quot;220&quot; y=&quot;693&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;280&quot; y=&quot;693&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;930&quot; y=&quot;612&quot; dp=&quot;25&quot; name=&quot;Bore8SV&quot; /&gt;&lt;bf x=&quot;930&quot; y=&quot;262&quot; dp=&quot;25&quot; name=&quot;Bore8SV&quot; /&gt;&lt;bf x=&quot;970&quot; y=&quot;693&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1030&quot; y=&quot;693&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1670&quot; y=&quot;693&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;1710&quot; y=&quot;612&quot; dp=&quot;25&quot; name=&quot;Bore8SV&quot; /&gt;&lt;bf x=&quot;1710&quot; y=&quot;262&quot; dp=&quot;25&quot; name=&quot;Bore8SV&quot; /&gt;&lt;bf x=&quot;1730&quot; y=&quot;693&quot; dp=&quot;25&quot; name=&quot;Bore7SV&quot; /&gt;&lt;bf x=&quot;2500&quot; y=&quot;612&quot; dp=&quot;25&quot; name=&quot;Bore8SV&quot; /&gt;&lt;bf x=&quot;2500&quot; y=&quot;262&quot; dp=&quot;25&quot; name=&quot;Bore8SV&quot; /&gt;&lt;/program&gt;" count="1">
     <part id="22"/>
-  </operation>
-  <operation id="24" typeId="XNC" side="false" bySizeDetail="true" code="0023_2" typeName="" program="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;program&gt;&lt;tool name=&quot;Cut4&quot; d=&quot;4&quot;/&gt;&lt;tool name=&quot;Mill6&quot; d=&quot;6&quot;/&gt;&lt;tool name=&quot;Mill8&quot; d=&quot;8&quot;/&gt;&lt;tool name=&quot;Mill10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Mill20&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20L&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Mill20M&quot; d=&quot;20&quot;/&gt;&lt;tool name=&quot;Bore10&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Bore10SV&quot; d=&quot;10&quot;/&gt;&lt;tool name=&quot;Cut0&quot; d=&quot;0&quot;/&gt;&lt;ms x=&quot;0&quot; y=&quot;250&quot; dp=&quot;20&quot; in=&quot;0&quot; out=&quot;1&quot; c=&quot;2&quot; name=&quot;Mill20&quot; /&gt;&lt;mac x=&quot;250&quot; y=&quot;0&quot; dp=&quot;20&quot; cx=&quot;250&quot; cy=&quot;250&quot; dir=&quot;true&quot; /&gt;&lt;/program&gt;" count="4">
-    <part id="23"/>
   </operation>
 </project>
